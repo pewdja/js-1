@@ -1,9 +1,4 @@
 
-
-
-
-
-
 const convertToUpperCase = (str) => {
   return str.toUpperCase();
 };
